@@ -1,3 +1,5 @@
+# CAUTION
+This is a fork of [stant/mdcsvimporter2015](https://github.com/stant/mdcsvimporter2015). It is a work-in-progress and **IS NOT TO BE TRUSTED**.
 # mdcsvimporter2015
 Moneydance plug-in to import transactions from CSV files. You can define, simply, on a screen, any number of 'Custom Readers' yourself, one for each Account file. 
 - You define the order and fields that will be imported into MD, like Date, Amount, Description, Category, etc... 
